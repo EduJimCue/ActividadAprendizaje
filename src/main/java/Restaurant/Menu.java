@@ -1,9 +1,13 @@
-package com.svalero.books;
+package Restaurant;
 
-import com.svalero.books.dao.*;
-import com.svalero.books.domain.*;
-import com.svalero.books.exception.UserNotFoundException;
-import com.svalero.books.util.DateUtils;
+import Restaurant.dao.*;
+import Restaurant.domain.Dish;
+import Restaurant.domain.Order;
+import Restaurant.domain.Restaurant;
+import Restaurant.domain.User;
+import Restaurant.exceptions.UserNotFoundException;
+import Restaurant.util.DateUtils;
+
 
 import java.sql.Connection;
 import java.sql.SQLException;

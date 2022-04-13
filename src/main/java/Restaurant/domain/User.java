@@ -1,4 +1,4 @@
-package com.svalero.books.domain;
+package Restaurant.domain;
 
 public class User {
 

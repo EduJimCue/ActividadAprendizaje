@@ -1,4 +1,4 @@
-package com.svalero.books;
+package Restaurant;
 
 import java.sql.SQLException;
 
