@@ -1,4 +1,4 @@
-package com.svalero.books.util;
+package Restaurant.util;
 
 public class Constants {
 

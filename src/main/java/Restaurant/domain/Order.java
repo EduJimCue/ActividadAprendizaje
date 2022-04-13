@@ -1,6 +1,6 @@
-package com.svalero.books.domain;
+package Restaurant.domain;
 
-import com.svalero.books.util.DateUtils;
+import Restaurant.util.DateUtils;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

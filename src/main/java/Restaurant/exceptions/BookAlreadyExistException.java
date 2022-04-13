@@ -1,4 +1,4 @@
-package com.svalero.books.exception;
+package Restaurant.exceptions;
 
 public class BookAlreadyExistException extends Exception {
 
